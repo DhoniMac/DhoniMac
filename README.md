@@ -1,5 +1,5 @@
 ### Olá, eu sou o Dhoni Mac
-- 🔭 Atualmente estou estudando Data Science.
+- 🔭 Atualmente estou estudando HTML/CSS.
 - 🌱 Estou aprendendo C++ e Python.
 
 <div align="center">
