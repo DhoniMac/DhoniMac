@@ -1,6 +1,6 @@
 ### Olá, eu sou o Dhoni Mac
-- 🔭 Atualmente estou estudando HTML/CSS.
-- 🌱 Estou aprendendo C++ e Python.
+- 🔭 Atualmente estou estudando Ciencia de dados.
+- 🌱 Estou aprendendo Python.
 
 <div align="center">
   <a href="https://github.com/dhonimac">
